@@ -1,6 +1,6 @@
 <h1> TFRecord_Realistic_USA_RoadSigns_160classes</h1>
 
-<h2>Sligtly Realistic USA RoadSigns 160classes</h2>
+<h2>Slightly Realistic USA RoadSigns 160classes</h2>
 
 This is a USA RoadSigns train and valid dataset annotated by TFRecord format. 
 It contains 160 classes, and each image size is 512x512.<br>
